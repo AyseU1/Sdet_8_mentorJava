@@ -1,0 +1,5 @@
+Method:Function
+
+public static void main(String[] args){
+     declaring a method:
+     Access modifiers    Specifier   Return Type  Method name(parameter)
